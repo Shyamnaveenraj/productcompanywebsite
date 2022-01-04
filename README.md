@@ -462,7 +462,7 @@ Google.com is the most visited website worldwide. Several other Google-owned web
 
 ### Home Page:
 
-![output](./images/homepage.png)
+![output](./images/homepage.jpg)
 
 ### Products Page:
 
